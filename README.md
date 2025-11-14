@@ -3,7 +3,7 @@ This library utilize ESP IDF DMA UART but compatible with Stream class in arduin
 
 > [!CAUTION]
 > SOME OF THE FUNCTION STILL NOT IMPLEMENTED 
-> PEEK FUNCTION IS ALWAYS RETURN -1 (there is no peak function for dma)
+> AND PEEK FUNCTION IS ALWAYS RETURN -1 (there is no peak function for dma)
 > Avalable for write is returning buffer for dma
 
 
